@@ -18,7 +18,6 @@ public class MovieList {
 	public MovieList(String movieTitle, String movieGenre) {
 		this.movieTitle = movieTitle;
 		this.movieGenre = movieGenre;
-
 	}
 
 	public String getMovieTitle() {
